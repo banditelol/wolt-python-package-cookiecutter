@@ -107,3 +107,9 @@ and use it as the value for `AUTO_UPDATE_GITHUB_TOKEN` secret. When creating the
 
 The first release will create `gh-pages` branch which will contain the static files for the documentation. Enable GitHub
  Pages in the _Pages_ section of the repository settings.
+
+### References
+
+For further discussion about this topic, refer to:
+* [Project template for modern Python packages - Wolt Blog](https://blog.wolt.com/engineering/2022/08/11/project-template-for-modern-python-packages/)
+* [Professional-grade mypy configuration - Wolt Blog](https://blog.wolt.com/engineering/2021/09/30/professional-grade-mypy-configuration/)
