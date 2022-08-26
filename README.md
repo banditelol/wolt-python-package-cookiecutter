@@ -113,3 +113,4 @@ The first release will create `gh-pages` branch which will contain the static fi
 For further discussion about this topic, refer to:
 * [Project template for modern Python packages - Wolt Blog](https://blog.wolt.com/engineering/2022/08/11/project-template-for-modern-python-packages/)
 * [Professional-grade mypy configuration - Wolt Blog](https://blog.wolt.com/engineering/2021/09/30/professional-grade-mypy-configuration/)
+* [Static types in Python, oh my(py)!](https://blog.zulip.com/2016/10/13/static-types-in-python-oh-mypy/#painpoints)
